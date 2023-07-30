@@ -8,3 +8,10 @@ if __name__ == '__main__':
     suma = a + b;
 
     print("El resultado de la suma es: ", suma)
+
+    c = 55;
+    d = 60;
+
+    resta = a - b
+
+    print("El resultado de la resta es: ", resta)
