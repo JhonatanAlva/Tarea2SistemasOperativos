@@ -1,17 +1,6 @@
 if __name__ == '__main__':
-    print('Hola Sistemas operativos')
-    print("Esta es la segunda version del codigo")
-
-    a = 2;
-    b = 5;
-
-    suma = a + b;
-
-    print("El resultado de la suma es: ", suma)
-
-    c = 55;
-    d = 60;
-
-    resta = a - b
-
-    print("El resultado de la resta es: ", resta)
+    a = "Hola "
+    b = "Me llamo Jhon"
+    oracion = a + b
+    print(oracion)
+    print("Esta es la ultima version de mi codigo")
